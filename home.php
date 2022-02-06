@@ -86,6 +86,9 @@
 		        	<li class="nav-item">
 		          		<a class="nav-link" href="manage.php">Manage</a>
 		        	</li>
+		        	<li class="nav-item">
+		          		<a class="nav-link" href="record.php">Record</a>
+		        	</li>
 		      	</ul>
 		      	<span class="navbar-text">
 		        	<a class="nav-link active" aria-current="page" href="logout.php">Logout</a>

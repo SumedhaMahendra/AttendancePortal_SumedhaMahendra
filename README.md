@@ -11,9 +11,10 @@ Professor will be using the Attendance Management System to mark attendance as p
 Proper validations, Designing, Animations, etc has been done completely.
 
 ### Technologies Used:
-- Visual Studio Code for Editing
+- Sublime Text for coding 
 - PHP Language to carry out backend operations and development of web page and MYSQL operations
-- HTML and CSS is used for front end development
+- HTML and CSS and bootstrap are used for front end development and designing
+- JavaScrip for form validations 
 - MYSQL for database management
 - XAMPP Server to carry out PHP Codes
 ---

@@ -16,6 +16,7 @@
                 padding-top: 2%;
                 background-color: rgba(146, 225, 247,0.8);
                 box-shadow: 5px 10px 18px black;
+                border-radius: 25px;
             }
             .btn{
                 margin-top: 20px;

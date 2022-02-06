@@ -30,6 +30,12 @@
         {
             width: 80%;
         }
+        .profileimg
+        {
+            border-radius: 50%;
+            height: 50px;
+            width: 50px;
+        }
     </style>
 </head>
 <body>
@@ -52,6 +58,7 @@
                     <a class="nav-link active" aria-current="page" href="logout.php">Logout</a>
                 </span>
             </div>
+            <img src="imgs/a1.png" class="profileimg">
         </div>
     </nav>
     <div class="container">

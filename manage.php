@@ -16,8 +16,10 @@
         }
         form
         {
+            border-radius: 25px;
             padding-top: 2%;            
             background-color: rgba(146, 225, 247,0.8);
+            box-shadow: 5px 10px 18px black;
         }
         input[type="submit"]
         {
@@ -79,8 +81,10 @@
             <div>
                 <input type="submit" name="submit1" class="btn btn-primary col-sm-12" value="Add Student">
             </div>  
+            <br>
         </form>
     </div>
+    <br>
     <div class="container">
         <h1>Remove Student</h1>
         <form action="" method="POST" class="form" onsubmit="return(form_validation());">
@@ -107,7 +111,8 @@
 
             <div class="mb-3 row">
                 <input type="submit" name="submit2" class="btn btn-primary col-sm-12" value="Remove Student">
-            </div>  
+            </div> 
+            <br> 
         </form>
     </div>
     <?php
